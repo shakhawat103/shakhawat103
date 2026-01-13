@@ -1,60 +1,87 @@
-## Hi there 👋 I'm Md. Shakhawat Osman Sohail
+<h1 align="center">
+  Hi 👋, I'm Md. Shakhawat Osman Sohail
+</h1>
 
-💻 Final-semseter CSE student | Aspiring ASP.NET Core / .NET Developer  
-📍 Dhaka, Bangladesh  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student;ASP.NET+Core+%2F+.NET+Developer;Backend+Focused+Learner&center=true&width=500&height=45&color=512BD4&vCenter=true&pause=1000" />
+</p>
+
+<p align="center">
+  <b>📍 Dhaka, Bangladesh</b>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a final-year Computer Science & Engineering student focused on **backend development with C# and ASP.NET Core**. I enjoy building **database-driven applications**, working with **server-side logic**, and applying clean MVC architecture in real projects.
+I’m a **final-year Computer Science & Engineering student** focused on **backend development using C# and ASP.NET Core**.  
+I enjoy building **database-driven applications**, writing **clean server-side logic**, and following **MVC architecture** in real projects.
 
-Currently looking for a **.NET / ASP.NET Core internship** to gain hands-on industry experience and grow as a backend developer.
+🎯 Currently seeking a **.NET / ASP.NET Core internship** to gain real-world development experience.
 
 ---
 
 ### 🛠️ Tech I Work With
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,git,github,vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,git,github,vscode&perline=7" />
+</p>
 
-- **Backend:** ASP.NET Core, MVC, EF Core, LINQ  
+- **Backend:** ASP.NET Core, MVC, Entity Framework Core, LINQ  
 - **Databases:** SQL Server, MySQL  
 - **Tools:** Git, GitHub, Visual Studio  
-
 
 ---
 
 ### 📌 Featured Projects
 
 #### 🔹 ASP.NET Core MVC CRUD Application
-- Full-stack web app using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**
-- Implemented CRUD operations, validation, and relational database design  
-🔗 GitHub Repository
+- Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**
+- Implemented CRUD operations, server-side validation, and relational database design
+- Followed clean MVC architecture and OOP principles  
+🔗 *GitHub Repository*
 
 #### 🔹 Mess Management System (Bash Script)
-- Menu-driven CRUD application built with **Bash scripting on Linux**
-- File-based storage with basic authentication and permission handling  
-🔗 GitHub Repository
+- Menu-driven CRUD application built on Linux
+- File-based data storage with authentication and permission handling  
+🔗 *GitHub Repository*
 
 ---
 
 ### 🎓 Experience
-**Student Mentor** — Green University of Bangladesh  
-- Mentored junior students in programming fundamentals and project work  
-- Assisted with debugging, logic development, and backend concepts  
+**Student Mentor — Green University of Bangladesh**  
+- Mentored junior students on programming fundamentals and academic projects  
+- Assisted with debugging, backend logic, and problem-solving  
 
 ---
 
 ### 🏆 Highlights
-- 🥇 Champion, IT Olympiad — GUB CSE Carnival 2024
-- 🎖️ VC’s List of Meritorious Students (3×)
+🏅 Champion — IT Olympiad, GUB CSE Carnival 2024  
+🎖️ VC’s List of Meritorious Students (3×)
 
 ---
 
-### 🔗 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/shakhawat-osman-sohail-168039290/
-- 🌐 Portfolio: https://shakhawat103.github.io/SohailPortfolio/
-- 📧 Email: shakhawat106944@gmail.com
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakhawat103&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawat103&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 🚀 Goal
-To build a solid foundation as a **.NET backend developer** through real-world projects and internship experience.
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shakhawat103">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:shakhawat106944@gmail.com">
+    <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>Goal:</b> Build a strong foundation as a <b>.NET backend developer</b> through real-world projects and internships.
+</p>

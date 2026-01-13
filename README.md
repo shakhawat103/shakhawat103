@@ -22,7 +22,7 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 
 ### Tech I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,html,css,boostrap,js,visualstudio" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,html,css,bootstrap,js,visualstudio" alt="Tech stack" />
 </p>
 
 - **Backend:** ASP.NET Core, MVC, Entity Framework Core, LINQ  

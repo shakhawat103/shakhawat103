@@ -33,16 +33,19 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 
 ### 📌 Featured Projects
 
-#### 🔹 ASP.NET Core MVC CRUD Application
-- Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**
-- Implemented CRUD operations, server-side validation, and relational database design
-- Followed clean MVC architecture and OOP principles  
-🔗 https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App
+[![ASP.NET Core MVC CRUD Application](https://img.shields.io/badge/ASP.NET_Core_Crud-View%20Repo-blue?style=for-the-badge)](https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App)
 
-#### 🔹 Mess Management System (Bash Script)
-- Menu-driven CRUD application built on Linux
+**ASP.NET Core MVC CRUD Application**  
+- Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**  
+- Implemented CRUD operations, server-side validation, and relational database design  
+- Followed clean MVC architecture and OOP principles  
+
+[![Mess Management System (Bash Script)](https://img.shields.io/badge/Mess_Management_Linux-Bash-orange?style=for-the-badge)](https://github.com/shakhawat103/Mess-Management-System-Bash)
+
+**Mess Management System (Bash Script)**  
+- Menu-driven CRUD application built on Linux  
 - File-based data storage with authentication and permission handling  
-🔗 https://github.com/shakhawat103/Mess-Management-System-Bash
+
 
 ---
 

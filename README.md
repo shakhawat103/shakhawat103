@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>📍 Dhaka, Bangladesh</b>
+  <b>Dhaka, Bangladesh</b>
 </p>
 
 ---

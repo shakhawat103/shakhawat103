@@ -13,12 +13,12 @@ Currently looking for a **.NET / ASP.NET Core internship** to gain hands-on indu
 ---
 
 ### 🛠️ Tech I Work With
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,linux,bash,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,git,github,vscode)
 
 - **Backend:** ASP.NET Core, MVC, EF Core, LINQ  
 - **Databases:** SQL Server, MySQL  
-- **Scripting & OS:** Linux CLI, Bash  
 - **Tools:** Git, GitHub, Visual Studio  
+
 
 ---
 

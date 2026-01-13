@@ -22,7 +22,14 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 
 ### Tech I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,html,css,bootstrap,js,visualstudio" alt="Tech stack" />
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-0078D4?style=for-the-badge&logo=aspdotnet&logoColor=white" /></a>
+  <a href="#"><img alt="EF Core" src="https://img.shields.io/badge/EF_Core-68217A?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlserver&logoColor=white" /></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
 </p>
 
 - **Backend:** ASP.NET Core, MVC, Entity Framework Core, LINQ  

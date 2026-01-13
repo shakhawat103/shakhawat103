@@ -69,7 +69,7 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/shakhawat-osman-sohail-168039290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/shakhawat103">

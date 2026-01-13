@@ -21,10 +21,7 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 ---
 
 ### 🛠️ Tech I Work With
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mysql,git,github,linux,bash&perline=7" alt="C#, .NET, ASP.NET, MySQL, Git, GitHub, Linux, Bash" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Visual_Studio_2019_logo.svg" width="40px" title="Visual Studio" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vs&perline=7" /> </p>
 
 
 - **Backend:** ASP.NET Core, MVC, Entity Framework Core, LINQ  

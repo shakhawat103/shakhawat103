@@ -12,15 +12,15 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 I’m a **final-semester Computer Science & Engineering student** focused on **backend development using C# and ASP.NET Core**.  
 I enjoy building **database-driven applications**, writing **clean server-side logic**, and following **MVC architecture** in real projects.
 
-🎯 Currently seeking a **.NET / ASP.NET Core internship** to gain real-world development experience.
+Currently seeking a **.NET / ASP.NET Core internship** to gain real-world development experience.
 
 ---
 
-### 🛠️ Tech I Work With
+### Tech I Work With
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vscode&perline=7" /> </p>
 
 
@@ -30,7 +30,7 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 [![ASP.NET Core MVC CRUD Application](https://img.shields.io/badge/ASP.NET_Core_Crud-View%20Repo-blue?style=for-the-badge)](https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App)
 
@@ -47,7 +47,7 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 
 ---
 
-### 🔗 Connect With Me
+### Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shakhawat-osman-sohail-168039290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -63,5 +63,5 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 ---
 
 <p align="center">
-  🚀 <b>Goal:</b> Build a strong foundation as a <b>.NET backend developer</b> through real-world projects and internships.
+  <b>Goal:</b> Build a strong foundation as a <b>.NET backend developer</b> through real-world projects and internships.
 </p>

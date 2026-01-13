@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Year+CSE+Student;ASP.NET+Core+%2F+.NET+Developer&center=true&width=500&height=45&color=512BD4&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Final-Semester+CSE+Student;ASP.NET+Core+%2F+.NET+Developer&center=true&width=500&height=45&color=512BD4&vCenter=true&pause=1000" />
 </p>
 
 <p align="center">

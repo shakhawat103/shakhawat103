@@ -45,28 +45,6 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 - Menu-driven CRUD application built on Linux  
 - File-based data storage with authentication and permission handling  
 
-
----
-
-### 🎓 Experience
-**Student Mentor — Green University of Bangladesh**  
-- Mentored junior students on programming fundamentals and academic projects  
-- Assisted with debugging, backend logic, and problem-solving  
-
----
-
-### 🏆 Highlights
-🏅 Champion — IT Olympiad, GUB CSE Carnival 2024  
-🎖️ VC’s List of Meritorious Students (3×)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakhawat103&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakhawat103&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ### 🔗 Connect With Me

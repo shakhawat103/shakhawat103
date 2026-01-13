@@ -32,10 +32,6 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
 </p>
 
-- **Backend:** ASP.NET Core, MVC, Entity Framework Core, LINQ  
-- **Databases:** SQL Server, MySQL  
-- **Tools:** Git, GitHub, Visual Studio  
-
 ---
 
 ### Featured Projects

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Md. Shakhawat Osman Sohail
+  Hi, I'm Md. Shakhawat Osman Sohail
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a **final-year Computer Science & Engineering student** focused on **backend development using C# and ASP.NET Core**.  
+I’m a **final-semester Computer Science & Engineering student** focused on **backend development using C# and ASP.NET Core**.  
 I enjoy building **database-driven applications**, writing **clean server-side logic**, and following **MVC architecture** in real projects.
 
 🎯 Currently seeking a **.NET / ASP.NET Core internship** to gain real-world development experience.
@@ -37,12 +37,12 @@ I enjoy building **database-driven applications**, writing **clean server-side l
 - Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**
 - Implemented CRUD operations, server-side validation, and relational database design
 - Followed clean MVC architecture and OOP principles  
-🔗 *GitHub Repository*
+🔗 https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App
 
 #### 🔹 Mess Management System (Bash Script)
 - Menu-driven CRUD application built on Linux
 - File-based data storage with authentication and permission handling  
-🔗 *GitHub Repository*
+🔗 https://github.com/shakhawat103/Mess-Management-System-Bash
 
 ---
 

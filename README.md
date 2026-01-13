@@ -39,7 +39,7 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 - Implemented CRUD operations, server-side validation, and relational database design  
 - Followed clean MVC architecture and OOP principles  
 
-[![Mess Management System (Bash Script)](https://img.shields.io/badge/Mess_Management_Linux-View Repo-orange?style=for-the-badge)](https://github.com/shakhawat103/Mess-Management-System-Bash)
+[![Mess Management System (Bash Script)](https://img.shields.io/badge/Mess_Management_Linux-View%20Repo-orange?style=for-the-badge)](https://github.com/shakhawat103/Mess-Management-System-Bash)
 
 **Mess Management System (Bash Script)**  
 - Menu-driven CRUD application built on Linux  

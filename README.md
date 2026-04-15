@@ -34,7 +34,17 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
+
+[![Hospital Management System](https://img.shields.io/badge/Hospital_Management_System-View%20Repo-green?style=for-the-badge)](https://github.com/your-username/hospital-management-system)
+
+**Hospital Management System (ASP.NET Core MVC)**  
+- Developed using **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**  
+- Applied **Repository & Unit of Work patterns** for clean and scalable architecture  
+- Features: Patient management, doctor scheduling, appointment booking, and role-based authentication  
+- Focused on **real-world business logic**, maintainability, and separation of concerns  
+
+---
 
 [![ASP.NET Core MVC CRUD Application](https://img.shields.io/badge/ASP.NET_Core_Crud-View%20Repo-blue?style=for-the-badge)](https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App)
 
@@ -42,6 +52,8 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 - Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**  
 - Implemented CRUD operations, server-side validation, and relational database design  
 - Followed clean MVC architecture and OOP principles  
+
+---
 
 [![Mess Management System (Bash Script)](https://img.shields.io/badge/Mess_Management_Linux-View%20Repo-orange?style=for-the-badge)](https://github.com/shakhawat103/Mess-Management-System-Bash)
 

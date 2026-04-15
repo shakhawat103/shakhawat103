@@ -36,7 +36,7 @@ Currently seeking a **.NET / ASP.NET Core internship** to gain real-world develo
 
 ### 🚀 Featured Projects
 
-[![Hospital Management System](https://img.shields.io/badge/Hospital_Management_System-View%20Repo-green?style=for-the-badge)](https://github.com/your-username/hospital-management-system)
+[![Hospital Management System](https://img.shields.io/badge/Hospital_Management_System-View%20Repo-green?style=for-the-badge)](https://github.com/shakhawat103/Hospital-Management-System)
 
 **Hospital Management System (ASP.NET Core MVC)**  
 - Developed using **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**  

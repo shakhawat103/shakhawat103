@@ -16,7 +16,7 @@
 I’m a **final-semester Computer Science & Engineering student** focused on **backend development using C# and ASP.NET Core**.  
 I enjoy building **database-driven applications**, writing **clean server-side logic**, and following **MVC architecture** in real projects.
 
-Seeking a Software Engineer role to contribute to enterprise-level backend systems and grow as a professional backend engineer.
+I am seeking an entry-level Software Engineer (.NET) role to contribute to real-world projects and grow as a backend-focused engineer.
 
 ---
 

@@ -46,14 +46,16 @@ I am seeking an entry-level Software Engineer (.NET) role to contribute to real-
 
 ---
 
-[![ASP.NET Core MVC CRUD Application](https://img.shields.io/badge/ASP.NET_Core_Crud-View%20Repo-blue?style=for-the-badge)](https://github.com/shakhawat103/AspNetCore-MVC-CRUD-App)
+[![Bank Management System](https://img.shields.io/badge/ASP.NET_Core_Bank_System-View%20Repo-blue?style=for-the-badge)](https://github.com/shakhawat103/Bank-Management-System)
 
-**ASP.NET Core MVC CRUD Application**  
-- Built using **ASP.NET Core 8**, **EF Core (Code First)**, and **SQL Server**  
-- Implemented CRUD operations, server-side validation, and relational database design  
-- Followed clean MVC architecture and OOP principles  
+**Bank Management System (Web API + MVC)**  
+- Built using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**  
+- Developed and consumed **RESTful APIs** with MVC integration using HttpClient  
+- Implemented account management features with layered architecture  
+- Designed system structure to support transaction operations (deposit, withdrawal, transfer)  
 
 ---
+
 
 [![Mess Management System (Bash Script)](https://img.shields.io/badge/Mess_Management_Linux-View%20Repo-orange?style=for-the-badge)](https://github.com/shakhawat103/Mess-Management-System-Bash)
 

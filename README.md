@@ -34,7 +34,7 @@ I am seeking an entry-level Software Engineer (.NET) role to contribute to real-
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 [![Hospital Management System](https://img.shields.io/badge/Hospital_Management_System-View%20Repo-green?style=for-the-badge)](https://github.com/shakhawat103/Hospital-Management-System)
 
